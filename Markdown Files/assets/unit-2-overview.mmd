@@ -1,0 +1,9 @@
+%% Mermaid diagram for Unit 2: Introduction to Express.js and Server-Side Basics with Node.js
+sequenceDiagram
+  participant C as Client
+  participant S as Express Server
+  participant DB as Database
+  C->>S: HTTP Request
+  S->>DB: Query/Command
+  DB-->>S: Result
+  S-->>C: JSON Response
