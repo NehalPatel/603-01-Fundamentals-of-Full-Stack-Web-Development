@@ -1,0 +1,236 @@
+{
+    "course": "TYBCA SEM-6 Advanced Web Development",
+    "totalVideos": 50,
+    "playlists": [
+        {
+            "title": "Angular Revision Block",
+            "description": "Quick revision of previous semester Angular fundamentals.",
+            "videos": [
+                {
+                    "id": 1,
+                    "title": "What is Angular? Quick Revision of Last Semester"
+                },
+                {
+                    "id": 2,
+                    "title": "Angular Project Structure, Components & Decorators"
+                },
+                {
+                    "id": 3,
+                    "title": "Angular Services & Dependency Injection (DI)"
+                },
+                {
+                    "id": 4,
+                    "title": "Angular Pipes (Built-in + Custom)"
+                },
+                {
+                    "id": 5,
+                    "title": "Angular Modules & Standalone Components (Angular 17)"
+                },
+                {
+                    "id": 6,
+                    "title": "Routing Basics & Navigation"
+                },
+                {
+                    "id": 7,
+                    "title": "RxJS Essentials: Observable, Subscribe, Subject"
+                }
+            ]
+        },
+        {
+            "title": "Unit 1 - Angular 17 Advanced Concepts",
+            "description": "In-depth learning of advanced SPA development using Angular 17.",
+            "videos": [
+                {
+                    "id": 8,
+                    "title": "Setting up Angular 17 Project with Standalone Components"
+                },
+                {
+                    "id": 9,
+                    "title": "Folder Structure & Clean Architecture for Large Projects"
+                },
+                {
+                    "id": 10,
+                    "title": "Lazy Loading Routes (Feature Modules)"
+                },
+                {
+                    "id": 11,
+                    "title": "Route Guards: CanActivate & CanDeactivate"
+                },
+                {
+                    "id": 12,
+                    "title": "Route Resolvers: Preloading Data"
+                },
+                {
+                    "id": 13,
+                    "title": "State Handling with RxJS: Subjects vs BehaviorSubjects"
+                },
+                {
+                    "id": 14,
+                    "title": "Reactive Forms: FormGroup & FormControl"
+                },
+                {
+                    "id": 15,
+                    "title": "Dynamic Forms using FormArray"
+                },
+                {
+                    "id": 16,
+                    "title": "Custom Validators & Async Validators"
+                },
+                {
+                    "id": 17,
+                    "title": "Submitting Forms to APIs & Centralized Error Handling"
+                },
+                {
+                    "id": 18,
+                    "title": "Creating Reusable UI Components (Card, Modal, Alerts)"
+                },
+                {
+                    "id": 19,
+                    "title": "Component Interaction with Input/Output & RxJS Services"
+                },
+                {
+                    "id": 20,
+                    "title": "ng-template, ng-container, ng-content Explained"
+                },
+                {
+                    "id": 21,
+                    "title": "Smart vs Dumb Components (Best Practices)"
+                },
+                {
+                    "id": 22,
+                    "title": "Angular Build Process, Environments & Optimization Flags"
+                },
+                {
+                    "id": 23,
+                    "title": "Deploying Angular App to Firebase Hosting"
+                },
+                {
+                    "id": 24,
+                    "title": "Performance Tuning: trackBy, OnPush, Lazy Loading"
+                }
+            ]
+        },
+        {
+            "title": "Unit 2 - Node.js & Express.js Basics",
+            "description": "Backend fundamentals with Node.js and Express.js.",
+            "videos": [
+                {
+                    "id": 25,
+                    "title": "Installing Node.js & Initializing Express Project"
+                },
+                {
+                    "id": 26,
+                    "title": "Creating REST APIs with Express"
+                },
+                {
+                    "id": 27,
+                    "title": "Using nodemon & Project Structure"
+                },
+                {
+                    "id": 28,
+                    "title": "Understanding GET, POST, PUT, DELETE Routes"
+                },
+                {
+                    "id": 29,
+                    "title": "Route Parameters & Query Parameters"
+                },
+                {
+                    "id": 30,
+                    "title": "Connecting Routes to Controllers"
+                },
+                {
+                    "id": 31,
+                    "title": "Middleware Essentials: Built-in & Custom"
+                },
+                {
+                    "id": 32,
+                    "title": "CORS, Environment Variables & Static Files"
+                }
+            ]
+        },
+        {
+            "title": "Unit 3 - Full Stack Components & Backend Integration",
+            "description": "Connecting Angular with Express + MongoDB, including authentication.",
+            "videos": [
+                {
+                    "id": 33,
+                    "title": "Form Submission in Express (req.body)"
+                },
+                {
+                    "id": 34,
+                    "title": "Sending JSON Responses & Error Handling"
+                },
+                {
+                    "id": 35,
+                    "title": "Connecting Angular Forms to Express APIs"
+                },
+                {
+                    "id": 36,
+                    "title": "Models, Services & Controllers Architecture"
+                },
+                {
+                    "id": 37,
+                    "title": "Setting up Mongoose & Creating Data Models"
+                },
+                {
+                    "id": 38,
+                    "title": "CRUD Operations with Express & MongoDB"
+                },
+                {
+                    "id": 39,
+                    "title": "Firebase Authentication (Email & Password)"
+                },
+                {
+                    "id": 40,
+                    "title": "User Registration & Login in Angular"
+                },
+                {
+                    "id": 41,
+                    "title": "Securing Backend Routes using Firebase Admin SDK / JWT"
+                }
+            ]
+        },
+        {
+            "title": "Unit 4 - Firebase + React Integration",
+            "description": "Using Firebase with Angular, Express, and React.",
+            "videos": [
+                {
+                    "id": 42,
+                    "title": "Setting Up Firebase Project & Firestore Database"
+                },
+                {
+                    "id": 43,
+                    "title": "Firestore CRUD: Add, Read, Update, Delete"
+                },
+                {
+                    "id": 44,
+                    "title": "Structuring Collections & Subcollections"
+                },
+                {
+                    "id": 45,
+                    "title": "Firebase SDK Integration in Angular"
+                },
+                {
+                    "id": 46,
+                    "title": "Firebase Admin SDK Integration in Express"
+                },
+                {
+                    "id": 47,
+                    "title": "Deploying Using Firebase Hosting"
+                },
+                {
+                    "id": 48,
+                    "title": "Setting up React Project with Vite"
+                },
+                {
+                    "id": 49,
+                    "title": "React Basics: JSX, Components, Hooks (useState, useEffect)"
+                },
+                {
+                    "id": 50,
+                    "title": "Firebase Integration in React App"
+                }
+            ]
+        }
+    ]
+}
